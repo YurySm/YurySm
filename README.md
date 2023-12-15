@@ -9,8 +9,9 @@
   <img src="./img.gif" width="600" height="300"/>
 </div>
 
+### :man_technologist: About Me :
 <div>
-  ### :man_technologist: About Me :
+  
 </div>
 
 
