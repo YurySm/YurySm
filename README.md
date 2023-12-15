@@ -8,6 +8,8 @@
 <div align="center">
   
   ![img|600x320,50%](./img.gif)
+
+  ![img|600x320,600](./img.gif)
   
 </div>
 
