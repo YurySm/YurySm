@@ -6,8 +6,6 @@
 
 
 <div align="center">
-  <img src="./img.gif" width="600" height="300"/>
-  
   ![img|600x320,50%](./img.gif)
 </div>
 
