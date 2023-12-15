@@ -6,7 +6,9 @@
 
 
 <div align="center">
+  
   ![img|600x320,50%](./img.gif)
+  
 </div>
 
 ### :man_technologist: About Me :
