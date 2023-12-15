@@ -5,7 +5,7 @@
 🌱 I studied at Udemy. Completed a number of courses on site layout, React, Next.js.
 
 <div id="header" align="center">
-  <img src="https://giphy.com/embed/4rZA5D22301iMgrUNd" width="100"/>
+  <img src="https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif" width="100"/>
 </div>
 
 
