@@ -8,7 +8,7 @@
 <div align="center">
   <img src="./img.gif" width="600" height="300"/>
   
-  ![img|320x271,50%](./img.gif)
+  ![img|600x320,50%](./img.gif)
 </div>
 
 ### :man_technologist: About Me :
