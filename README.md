@@ -6,11 +6,7 @@
 
 
 <div align="center">
-  
-  ![img|600x320,50%](./img.gif)
-
-  ![img|600x320 =250x250](./img.gif)
-  
+  <img src="./img.gif"/>&nbsp;
 </div>
 
 ### :man_technologist: About Me :
