@@ -6,6 +6,6 @@
 
 <div id="header" align="center">
   <!--- <img src="https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif" width="300"/> --->
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="600" height="300" style="object-fit: cover;"/>
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="600" height="350" style="object-fit: cover;"/>
 </div>
 
