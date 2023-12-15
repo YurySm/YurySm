@@ -6,7 +6,7 @@
 
 
 <div align="center">
-  <img src="./img.gif"/>&nbsp;
+  <img src="./img.gif"  sizes="(max-width: 1000px) 100%, 550px"/>
 </div>
 
 ### :man_technologist: About Me :
