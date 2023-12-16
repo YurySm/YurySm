@@ -52,6 +52,10 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ---
 
+### :fire: My Stats :
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YurySm)](https://git.io/streak-stats)
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=YurySm&style=flat-square&color=blueviolet" alt=""/>
 </div>
